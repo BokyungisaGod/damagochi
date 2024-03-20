@@ -1,0 +1,32 @@
+{ "skeleton": { "images": "C:/Users/AA/Desktop/게임/2022/쿠킹팡/알토이게임즈_다함께 쿠킹팡/1.캐릭터&몬스터/캐릭터/ch09/psd/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "오른발", "bone": "root", "attachment": "오른발" },
+	{ "name": "왼발", "bone": "root", "attachment": "왼발" },
+	{ "name": "왼팔", "bone": "root", "attachment": "왼팔" },
+	{ "name": "몸통", "bone": "root", "attachment": "몸통" },
+	{ "name": "오른팔", "bone": "root", "attachment": "오른팔" }
+],
+"skins": {
+	"default": {
+		"오른발": {
+			"오른발": { "x": 297, "y": -473.5, "width": 42, "height": 85 }
+		},
+		"왼발": {
+			"왼발": { "x": 212, "y": -473.5, "width": 42, "height": 85 }
+		},
+		"왼팔": {
+			"왼팔": { "x": 421, "y": -291.5, "width": 88, "height": 105 }
+		},
+		"몸통": {
+			"몸통": { "x": 255, "y": -239.5, "width": 368, "height": 449 }
+		},
+		"오른팔": {
+			"오른팔": { "x": 170.5, "y": -307.5, "width": 85, "height": 95 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

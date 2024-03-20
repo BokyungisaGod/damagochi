@@ -1,0 +1,32 @@
+{ "skeleton": { "images": "C:/Users/은영/Downloads/알토이게임즈_다함께 쿠킹팡/알토이게임즈_다함께 쿠킹팡/1.캐릭터&몬스터/ch19/psd/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "오른팔", "bone": "root", "attachment": "오른팔" },
+	{ "name": "오른발", "bone": "root", "attachment": "오른발" },
+	{ "name": "왼발", "bone": "root", "attachment": "왼발" },
+	{ "name": "몸통", "bone": "root", "attachment": "몸통" },
+	{ "name": "왼팔", "bone": "root", "attachment": "왼팔" }
+],
+"skins": {
+	"default": {
+		"오른팔": {
+			"오른팔": { "x": 590, "y": -541.5, "width": 166, "height": 205 }
+		},
+		"오른발": {
+			"오른발": { "x": 461, "y": -748, "width": 78, "height": 160 }
+		},
+		"왼발": {
+			"왼발": { "x": 273.5, "y": -748, "width": 79, "height": 160 }
+		},
+		"몸통": {
+			"몸통": { "x": 388.5, "y": -365.5, "width": 779, "height": 733 }
+		},
+		"왼팔": {
+			"왼팔": { "x": 108, "y": -541.5, "width": 166, "height": 205 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

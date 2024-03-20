@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{1A34F56A-C42B-36F8-7C3C-94A1D4540CDC}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bbf4b32a-78ad-4066-bf62-6729aa196a21" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script folder/Load.cs">
+    <Files>
+      <File FileName="Assets/script folder/Load.cs" Line="1" Column="1" />
+      <File FileName="Assets/script folder/Item.cs" />
+      <File FileName="Assets/script folder/Card.cs" />
+      <File FileName="Assets/script folder/Board.cs" />
+      <File FileName="Assets/script folder/GameManager.cs" />
+      <File FileName="Assets/script folder/water.cs" />
+      <File FileName="Assets/script folder/randomspawn.cs" />
+      <File FileName="Assets/script folder/Player.cs" />
+      <File FileName="Assets/script folder/store.cs" />
+      <File FileName="Assets/script folder/menu.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="damagochi" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="script folder" expanded="True">
+                <Node name="Load.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
